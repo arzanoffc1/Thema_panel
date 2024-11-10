@@ -1,4 +1,5 @@
 COMMAND NYA 
+git clone https://github.com/arzanoffc1/Thema_panel.git
 | curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 apt install -y nodejs
 | npm i -g yarn
